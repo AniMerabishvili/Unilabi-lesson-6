@@ -4,6 +4,9 @@
 .f-right {
 	float: right;
 }
+
+/*header*/
+
 .header {
 	position: fixed;
 	width: 100%;
@@ -36,13 +39,16 @@
 	background-color: #E6E6E6;
 	height: 610px;
 	width: 1366px;
-	padding-top: 120px;
+	padding-top: 125px;
 
 }
 .ul :: after {
 	content: '';
 	clear: both;
 } 
+
+/*section1*/
+
 .img1 {
 	padding-left: 98px;
 }
@@ -78,3 +84,136 @@
 	font-size: 30px;
 }
 
+/*section2*/
+.div2 {
+	position: relative;
+	background-color: #363E97;
+	width: 1366px;
+	height: 500px;
+}
+.title2 {
+	font-family: 'Roboto', sans-serif;
+	font-size: 24px;
+	color: white;
+	position: absolute;
+	left: 99.54px;
+	top: 29.97px;
+}
+.whiteboxleft {
+	width: 570px;
+	height: 320px;
+	background-color: white;
+	margin-top: 89.75px;
+	margin-left: 98px;
+}
+.whiteboxright {
+	width: 570px;
+	height: 320px;
+	background-color:  white;
+	margin-top: 89.75px;
+	margin-left: 30px;
+}
+
+/*section3*/
+.div3 {
+	background-color: #BDCCD4;
+	height: 450px;
+	position: relative;
+	width: 1366px;
+}
+.title3 {
+	font-family: 'Roboto', sans-serif;
+	font-size: 24px;
+	color: #3D58A6;
+	position: absolute;
+	left: 99.54px;
+	top: 29.97px;
+}
+.newsdiv1 {
+	margin-left: 98px;
+	margin-top: 90.25px;
+	background-color: #E6E6E6;
+	height: 270px;
+	width: 270px;
+	position: relative;
+}
+.newstext {
+	font-family: 'Roboto', sans-serif;
+	font-size: 24px;
+	color: #333333;
+	position: absolute;
+	left: 14px;
+	bottom: 17px;
+}
+.newsdiv2 {
+	margin-left: 30px;
+	margin-top: 90.25px;
+	background-color: #E6E6E6;
+	height: 270px;
+	width: 270px;
+	position: relative;
+}
+
+/*section4*/
+
+.div4 {
+	width: 1366px;
+	background-color: #E6E6E6;
+	height: 345.46px;
+	position: relative;
+}
+.div4left {
+	background-color: #F2F2F2;
+	height: 225px;
+	width: 570px;
+	position: relative;
+	top: 89.75px;
+	left: 98px;
+}
+
+.FEATURED {
+	font-family: 'Roboto', sans-serif;
+	font-size: 24px;
+	color: black;
+	position: absolute;
+	left: 99.54px;
+	top: 29.97px;
+}
+.title4 {
+	font-family: 'Roboto', sans-serif;
+	font-size: 22px;
+	color: #3D58A6;
+	position: absolute;
+	left: 20.77px;
+	top: 11.05px;
+}
+.finger {
+	position: absolute;
+	left: 38.78px;
+	bottom: 41.73px;
+}
+.p4left {
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+	color: #333333;
+	position: absolute;
+	right: 15.01px;
+	top: 57.45px; 
+	width: 350px;
+}
+.more {
+	color: #3D58A6;
+	font-family: 'Roboto', sans-serif;
+	position: absolute;
+	bottom: 14.63px;
+	right: 8.99px;
+	font-size: 14px;
+}
+.div4right {
+	position: absolute;
+	right: 98px;
+	bottom: 30.7px;
+	width: 570px;
+	height: 225px;
+	background-color: #F2F2F2;
+}
