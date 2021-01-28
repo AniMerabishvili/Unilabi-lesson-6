@@ -217,3 +217,22 @@
 	height: 225px;
 	background-color: #F2F2F2;
 }
+
+/*footer*/
+
+.footerleft {
+	font-family: 'Roboto', sans-serif;
+	font-size: 12px;
+	color: #333333;
+	margin-left: 98px;
+	margin-top: 22.04px;
+	margin-bottom: 22.01px;
+}
+.footerright {
+	font-family: 'Roboto', sans-serif;
+	font-size: 12px;
+	color: #333333;
+	margin-right: 85px;
+	margin-top: 22.04px;
+	margin-bottom: 22.01px;
+}
